@@ -1,0 +1,58 @@
+
+.google
+{
+font-family: 'Dancing Script', cursive;
+text-align:center;
+}
+
+.bordercolor
+{
+	border:1px dashed pink;
+}
+
+.bgSubImg
+{
+background-image:url('../images/about-us-bg .jpeg'); 
+background-repeat:no-repeat; 
+background-position:center;
+background-size:cover;
+}
+
+.bannerImg
+{
+background-image:url('../images/banner-img1.jfif"');
+background-repeat:no-repeat; 
+background-position:center;
+background-size:cover;
+}
+
+.bgImg
+{
+background-image:url('../images/gift-box.jpg'); 
+background-repeat:no-repeat; 
+background-position:top-right;
+background-size:cover;
+}	
+		
+.line-height
+{
+	line-height:35px;
+}
+
+			
+.formbg1	
+{
+background-image:url('../images/form-bg.jpeg'); 
+background-repeat:no-repeat; 
+background-position:center;
+background-size:cover;
+}
+
+.bcolor
+{
+	border:2px groove pink;
+}
+
+
+
+
